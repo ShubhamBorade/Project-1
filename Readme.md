@@ -10,6 +10,8 @@
 
 ---
 
-Take a look at the sample output page
+Take a look at the sample output page and check in web click on below link
+
+[Click Me](https://firstlandingpage1.netlify.app/ "First Project")
 
 ![Sample](./Project-1.PNG)

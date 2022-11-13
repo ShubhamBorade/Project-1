@@ -15,9 +15,14 @@
     font-family: 'Poppins';
     font-style: normal;
 }
+.list-item:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
 .list li{
     margin-left: 40px;
-    font-size: 17px;
+    font-size: 18px;
 }
 .button-group{
     display: flex;
@@ -33,9 +38,20 @@ li:nth-child(1){
     font-size: 16px;
     font-weight: bold;
 }
+.nav-button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
 svg{
     margin-right: 10px;
     margin-top: 6px;
+}
+svg:hover{
+    cursor: pointer;
+}
+[src="./assets/Logo.png"]:hover{
+    cursor: pointer;
 }
 [src="./assets/Image.png"]{
     margin-top: 97px;
@@ -78,6 +94,16 @@ p + div{
     font-style: normal;
     margin-right: 10px;
 }
+.button-email:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+}
+.button-join:hover{
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+}
 .button-join{
     padding: 7px 32px;
     border-radius: 16px;
@@ -99,7 +125,9 @@ p + div{
 .icons{
     margin-left: 112px;
 }
-
+.icons img:hover{
+    cursor: pointer;
+}
 .globe{
     margin-top: 50px;
 }

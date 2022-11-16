@@ -1,6 +1,5 @@
-# My First Project
+# Street Style Landing Page
 
-## Completed by me "Shubham Borade"
 
 > I have learnt about basics of HTML and CSS.It was a challenging for me as its a first project i have built after 1 year.now i am feeling little comfortable.
 
